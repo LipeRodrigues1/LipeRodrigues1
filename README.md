@@ -1,4 +1,5 @@
-### Olá, Me chamo Fellipe ✌
+### Olá, Me chamo Fellipe ✌ 
+![](https://api.visitorbadge.io/api/VisitorHit?user=LipeRodrigues1&repo=LipeRodrigues1-badge&countColor=0d1117)
 
 <div align="left"> 
 <a href="https://instagram.com/lipee.on" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
