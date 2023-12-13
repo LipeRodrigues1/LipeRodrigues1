@@ -1,5 +1,5 @@
 ### Olá, Me chamo Fellipe ✌ 
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLipeRodrigues1%2FLipeRodrigues1%2Fedit%2Fmain%2FREADME.md&label=VISITORS&countColor=%23263759)
 
 <div align="left"> 
 <a href = "mailto:cmp.1a.lipe.rodrigues246@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
