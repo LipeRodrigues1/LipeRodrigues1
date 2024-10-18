@@ -1,5 +1,4 @@
 ### Olá, Me chamo Fellipe ✌ 
-
 <div align="left"> 
 <a href = "mailto:cmp.1a.lipe.rodrigues246@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>
@@ -10,12 +9,13 @@
 </div>
 
 ### Main skills:
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Logo Python">
+![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
 
 ### Tolls:
-<img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="Logo Vscode">
+![VsCode](https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000)
 
 ### Practicing:
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="Logo HTML5">
-<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="Logo CSS3">
-<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Logo JavaScript">
+![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+
