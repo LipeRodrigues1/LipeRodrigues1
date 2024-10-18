@@ -9,9 +9,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeRodrigues1&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
 </div>
 
- ### Main skills:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### Main skills:
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Logo Python">
 
-### Studying in this moment:
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### Tolls:
+<img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="Logo Vscode">
+
+### Practicing:
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="Logo HTML5">
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="Logo CSS3">
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Logo JavaScript">
